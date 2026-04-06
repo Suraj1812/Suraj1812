@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Suraj Singh
 
-<!--
-**Suraj1812/Suraj1812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | AI & Scalable Systems
 
-Here are some ideas to get you started:
+- 🔭 Working on: AI + Full Stack Apps
+- 🌱 Learning: Advanced System Design
+- ⚡ Fun fact: Built 40+ projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+React | Next.js | Node.js | NestJS | Python | AI | Docker
+
+---
+
+### 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=Suraj1812&show_icons=true&theme=radical)
+
+---
+
+### 🔥 Streak
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=Suraj1812&theme=radical)
