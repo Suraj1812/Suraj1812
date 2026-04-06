@@ -1,0 +1,88 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Suraj Singh profile banner</title>
+  <desc id="desc">A professional banner for Suraj Singh highlighting software engineering, AI products, full-stack applications, and scalable systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.55" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="820" y1="74" x2="1180" y2="346" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111C33"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#172554"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(260 94) rotate(37.3274) scale(318.24 164.802)">
+      <stop stop-color="#22D3EE" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1074 344) rotate(180) scale(292 168)">
+      <stop stop-color="#2563EB" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#glowA)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#glowB)"/>
+
+  <g opacity="0.12" stroke="#94A3B8">
+    <path d="M60 346H744"/>
+    <path d="M60 306H744"/>
+    <path d="M60 266H744"/>
+    <path d="M60 226H744"/>
+    <path d="M60 186H744"/>
+    <path d="M60 146H744"/>
+    <path d="M60 106H744"/>
+    <path d="M130 60V358"/>
+    <path d="M230 60V358"/>
+    <path d="M330 60V358"/>
+    <path d="M430 60V358"/>
+    <path d="M530 60V358"/>
+    <path d="M630 60V358"/>
+    <path d="M730 60V358"/>
+  </g>
+
+  <circle cx="940" cy="98" r="3.5" fill="#22D3EE" fill-opacity="0.6"/>
+  <circle cx="969" cy="98" r="3.5" fill="#60A5FA" fill-opacity="0.75"/>
+  <circle cx="998" cy="98" r="3.5" fill="#93C5FD" fill-opacity="0.9"/>
+
+  <text x="72" y="110" fill="#60A5FA" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="0.22em">SOFTWARE ENGINEER</text>
+  <text x="72" y="182" fill="#F8FAFC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">Suraj Singh</text>
+  <text x="72" y="228" fill="#CBD5E1" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">
+    Building AI-powered products, full-stack applications,
+  </text>
+  <text x="72" y="264" fill="#CBD5E1" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">
+    and scalable systems with product thinking and clean execution.
+  </text>
+
+  <rect x="72" y="314" width="182" height="42" rx="21" fill="url(#chip)" stroke="#1D4ED8" stroke-opacity="0.55"/>
+  <rect x="268" y="314" width="188" height="42" rx="21" fill="url(#chip)" stroke="#1D4ED8" stroke-opacity="0.55"/>
+  <rect x="470" y="314" width="178" height="42" rx="21" fill="url(#chip)" stroke="#1D4ED8" stroke-opacity="0.55"/>
+  <text x="107" y="340" fill="#E2E8F0" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">AI Products</text>
+  <text x="302" y="340" fill="#E2E8F0" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Full-Stack Apps</text>
+  <text x="509" y="340" fill="#E2E8F0" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Scalable Systems</text>
+
+  <rect x="816" y="74" width="392" height="272" rx="24" fill="url(#panel)" stroke="#334155" stroke-opacity="0.9"/>
+  <rect x="816" y="74" width="392" height="48" rx="24" fill="#0B1324"/>
+  <path d="M816 98C816 84.7452 826.745 74 840 74H1184C1197.25 74 1208 84.7452 1208 98V122H816V98Z" fill="#0B1324"/>
+  <text x="848" y="104" fill="#E2E8F0" font-family="Menlo, Consolas, monospace" font-size="16" font-weight="700">build-profile.ts</text>
+
+  <text x="844" y="158" fill="#60A5FA" font-family="Menlo, Consolas, monospace" font-size="18">const</text>
+  <text x="902" y="158" fill="#E2E8F0" font-family="Menlo, Consolas, monospace" font-size="18">focus = [</text>
+  <text x="864" y="192" fill="#34D399" font-family="Menlo, Consolas, monospace" font-size="17">"AI-powered products"</text>
+  <text x="864" y="222" fill="#34D399" font-family="Menlo, Consolas, monospace" font-size="17">"Modern full-stack apps"</text>
+  <text x="864" y="252" fill="#34D399" font-family="Menlo, Consolas, monospace" font-size="17">"Scalable backend systems"</text>
+  <text x="844" y="286" fill="#E2E8F0" font-family="Menlo, Consolas, monospace" font-size="18">];</text>
+
+  <text x="844" y="322" fill="#94A3B8" font-family="Menlo, Consolas, monospace" font-size="16">location</text>
+  <text x="915" y="322" fill="#E2E8F0" font-family="Menlo, Consolas, monospace" font-size="16">=</text>
+  <text x="936" y="322" fill="#F8FAFC" font-family="Menlo, Consolas, monospace" font-size="16">"Faridabad, India"</text>
+
+  <rect x="1054" y="286" width="120" height="42" rx="14" fill="#0F1C35" stroke="#1D4ED8" stroke-opacity="0.8"/>
+  <text x="1080" y="302" fill="#60A5FA" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">PROJECTS</text>
+  <text x="1091" y="320" fill="#F8FAFC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">40+</text>
+</svg>

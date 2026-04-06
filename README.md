@@ -1,55 +1,87 @@
-<h1 align="center">Suraj Singh</h1>
-
 <p align="center">
-  Software Engineer building AI-powered products, full-stack applications, and scalable systems.
+  <img src="./assets/profile-banner.svg" alt="Suraj Singh profile banner" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Suraj1812">
-    <img src="https://img.shields.io/badge/GitHub-Suraj1812-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/Primary_GitHub-Suraj1812-111827?style=for-the-badge&logo=github&logoColor=white" alt="Primary GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Projects-40%2B-2563EB?style=for-the-badge" alt="40 plus projects" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Full%20Stack%20%7C%20Systems-0F172A?style=for-the-badge" alt="Engineering focus" />
+  <a href="https://github.com/Suraj44500">
+    <img src="https://img.shields.io/badge/Project_Archive-Suraj44500-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Project archive" />
+  </a>
+  <a href="https://portfolio-react-self-alpha.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
-## About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/Based_in-Faridabad%2C_India-0F172A?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Faridabad, India" />
+  <img src="https://img.shields.io/badge/Built-40%2B_Projects-2563EB?style=flat-square" alt="Built 40 plus projects" />
+  <img src="https://img.shields.io/badge/Focus-AI_Products_%7C_Full_Stack_%7C_Systems-111827?style=flat-square" alt="AI products, full stack, and systems" />
+</p>
 
-- Building AI-driven and full-stack applications with a strong focus on usability, performance, and scale.
-- Turning ideas into practical products while keeping architecture clean, maintainable, and production-ready.
-- Growing deeper in advanced system design and scalable backend engineering.
-- Built 40+ projects across product development, automation, and modern web engineering.
+## Engineering Profile
 
-## Tech Stack
+I build AI-powered products, modern full-stack applications, and scalable backend systems with a strong focus on product quality, maintainability, and real-world execution. I care about software that feels polished for users and stays clean under the hood as it grows.
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>What I Build</strong>
+      <ul>
+        <li>AI-driven product experiences</li>
+        <li>Full-stack applications with strong UX</li>
+        <li>Backend services and automation flows</li>
+        <li>Systems designed beyond the prototype stage</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <strong>How I Approach Engineering</strong>
+      <ul>
+        <li>Product-first thinking with practical delivery</li>
+        <li>Clean architecture and long-term maintainability</li>
+        <li>Performance, clarity, and usability as defaults</li>
+        <li>Continuous growth in advanced system design</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## Core Stack
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-233056?style=for-the-badge&logo=nodedotjs&logoColor=7FC728" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-111827?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
+  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-172554?style=for-the-badge&logo=nodedotjs&logoColor=7FC728" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-0F172A?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
   <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/AI%20Apps-111827?style=for-the-badge&logo=openai&logoColor=10A37F" alt="AI applications" />
+  <img src="https://img.shields.io/badge/Docker-0B1120?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/AI_Apps-111827?style=for-the-badge&logo=openai&logoColor=10A37F" alt="AI apps" />
 </p>
 
-## Engineering Snapshot
+## Current Focus
 
-- AI + Product Engineering: Building software that blends intelligent workflows with strong product experience.
-- Frontend Delivery: Creating fast, modern interfaces with React and Next.js.
-- Backend Systems: Designing APIs, services, and automation with Node.js, NestJS, and Python.
-- Scalability Mindset: Thinking beyond the prototype toward maintainable systems and long-term growth.
+- Building AI features that are genuinely useful, fast, and reliable.
+- Designing systems that can scale without losing clarity.
+- Improving backend architecture and delivery quality from idea to launch.
 
-## GitHub Analytics
+## GitHub Snapshot
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suraj1812&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj1812&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suraj1812&theme=github_dark" alt="GitHub profile details" width="100%" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj1812&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suraj1812&theme=github_dark" alt="GitHub stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suraj1812&theme=github_dark" alt="Repositories per language" width="49%" />
 </p>
 
-## Connect
+## Explore My Work
 
-- GitHub: [github.com/Suraj1812](https://github.com/Suraj1812)
-- More Projects: [github.com/Suraj44500](https://github.com/Suraj44500)
+- Primary GitHub: [github.com/Suraj1812](https://github.com/Suraj1812)
+- Project archive: [github.com/Suraj44500](https://github.com/Suraj44500)
+- Portfolio: [portfolio-react-self-alpha.vercel.app](https://portfolio-react-self-alpha.vercel.app/)
+
+<p align="center">
+  Building useful software with strong foundations and ambitious execution.
+</p>
