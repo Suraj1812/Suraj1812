@@ -2,11 +2,11 @@
 
 <p align="center">
   <strong>Full-Stack Software Engineer</strong><br />
-  Building AI-powered applications, scalable web systems, and production-ready digital products.
+  Building AI-powered products, scalable web systems, and production-ready digital experiences.
 </p>
 
 <p align="center">
-  Product-focused execution, clean architecture, and modern full-stack delivery.
+  Product-focused execution, clean architecture, and reliable delivery from idea to launch.
 </p>
 
 <p align="center">
@@ -33,14 +33,16 @@
   <img src="https://img.shields.io/badge/Focus-AI%20Applications%20%7C%20Full%20Stack%20%7C%20Systems-111827?style=flat-square" alt="AI applications, full stack, and systems" />
 </p>
 
-## About
+## Professional Summary
 
 I am a software engineer focused on AI product engineering, full-stack application development, and scalable backend systems. I build software that is useful, fast, maintainable, and ready for real users.
+
+Built 40+ projects across product engineering, automation, and modern web development.
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <strong>What I Build</strong>
+      <strong>Core Capabilities</strong>
       <ul>
         <li>AI-powered applications and product workflows</li>
         <li>Modern full-stack products with React and Next.js</li>
@@ -49,7 +51,7 @@ I am a software engineer focused on AI product engineering, full-stack applicati
       </ul>
     </td>
     <td valign="top" width="50%">
-      <strong>How I Work</strong>
+      <strong>Engineering Approach</strong>
       <ul>
         <li>Product-first thinking with practical delivery</li>
         <li>Clean code, maintainable systems, and strong UX</li>
@@ -59,6 +61,12 @@ I am a software engineer focused on AI product engineering, full-stack applicati
     </td>
   </tr>
 </table>
+
+## Current Focus
+
+- AI features that improve real product workflows
+- Full-stack systems that scale cleanly as complexity grows
+- Reliable backend architecture and modern frontend delivery
 
 ## Core Stack
 
@@ -73,7 +81,7 @@ I am a software engineer focused on AI product engineering, full-stack applicati
   <img src="https://img.shields.io/badge/Docker-0B1120?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
 </p>
 
-## Profiles and Work
+## Links
 
 - Latest portfolio: [portfolio-rose-rho-3t5lxjafz2.vercel.app](https://portfolio-rose-rho-3t5lxjafz2.vercel.app/)
 - Previous portfolio: [portfolio-react-self-alpha.vercel.app](https://portfolio-react-self-alpha.vercel.app/)
