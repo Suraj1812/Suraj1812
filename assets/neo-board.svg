@@ -7,8 +7,8 @@
   <rect x="84" y="68" width="560" height="272" rx="28" fill="#000000"/>
   <rect x="70" y="54" width="560" height="272" rx="28" fill="#FFE45E" stroke="#000000" stroke-width="6"/>
 
-  <rect x="684" y="68" width="514" height="272" rx="28" fill="#000000"/>
-  <rect x="670" y="54" width="514" height="272" rx="28" fill="#7EE7FF" stroke="#000000" stroke-width="6"/>
+  <rect x="664" y="68" width="534" height="272" rx="28" fill="#000000"/>
+  <rect x="650" y="54" width="534" height="272" rx="28" fill="#7EE7FF" stroke="#000000" stroke-width="6"/>
 
   <rect x="84" y="390" width="426" height="262" rx="28" fill="#000000"/>
   <rect x="70" y="376" width="426" height="262" rx="28" fill="#FFFFFF" stroke="#000000" stroke-width="6"/>
@@ -20,7 +20,7 @@
   <rect x="92" y="16" width="154" height="46" rx="16" fill="#ADFF2F" stroke="#000000" stroke-width="5"/>
 
   <text x="122" y="46" fill="#000000" font-family="Arial Black, Arial, sans-serif" font-size="21" font-weight="900">PROFILE</text>
-  <text x="706" y="96" fill="#000000" font-family="Arial Black, Arial, sans-serif" font-size="22" font-weight="900">BUILD MODE</text>
+  <text x="686" y="96" fill="#000000" font-family="Arial Black, Arial, sans-serif" font-size="22" font-weight="900">BUILD MODE</text>
   <text x="104" y="418" fill="#000000" font-family="Arial Black, Arial, sans-serif" font-size="22" font-weight="900">STACK</text>
   <text x="584" y="418" fill="#000000" font-family="Arial Black, Arial, sans-serif" font-size="22" font-weight="900">ACCESS POINTS</text>
 
@@ -29,13 +29,13 @@
   <text x="104" y="198" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">and production-ready digital products with</text>
   <text x="104" y="230" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">clean architecture and a product-first lens.</text>
 
-  <rect x="104" y="258" width="238" height="44" rx="16" fill="#FFFFFF" stroke="#000000" stroke-width="5"/>
-  <text x="126" y="286" fill="#000000" font-family="Arial Black, Arial, sans-serif" font-size="19" font-weight="900">40+ PROJECTS SHIPPED</text>
+  <rect x="104" y="258" width="284" height="44" rx="16" fill="#FFFFFF" stroke="#000000" stroke-width="5"/>
+  <text x="126" y="286" fill="#000000" font-family="Arial Black, Arial, sans-serif" font-size="17" font-weight="900">40+ PROJECTS SHIPPED</text>
 
-  <text x="706" y="126" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">01  AI-powered products and workflows</text>
-  <text x="706" y="168" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">02  React, Next.js, Node.js, NestJS builds</text>
-  <text x="706" y="210" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">03  APIs, automation, and scalable systems</text>
-  <text x="706" y="252" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">04  Fast UI, maintainable code, clean shipping</text>
+  <text x="686" y="126" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800">01  AI products and workflows</text>
+  <text x="686" y="168" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800">02  React, Next.js, Node, NestJS</text>
+  <text x="686" y="210" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800">03  APIs, automation, scalable systems</text>
+  <text x="686" y="252" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800">04  Fast UI, clean code, reliable shipping</text>
 
   <rect x="104" y="452" width="118" height="42" rx="16" fill="#FFE45E" stroke="#000000" stroke-width="5"/>
   <rect x="238" y="452" width="118" height="42" rx="16" fill="#7EE7FF" stroke="#000000" stroke-width="5"/>
