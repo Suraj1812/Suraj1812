@@ -1,87 +1,51 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="Suraj Singh profile banner" width="100%" />
-</p>
+<h1 align="center">Suraj Singh</h1>
 
 <p align="center">
-  <a href="https://github.com/Suraj1812">
-    <img src="https://img.shields.io/badge/Primary_GitHub-Suraj1812-111827?style=for-the-badge&logo=github&logoColor=white" alt="Primary GitHub" />
-  </a>
-  <a href="https://github.com/Suraj44500">
-    <img src="https://img.shields.io/badge/Project_Archive-Suraj44500-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Project archive" />
-  </a>
-  <a href="https://portfolio-react-self-alpha.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  <strong>Full-Stack Software Engineer</strong><br />
+  Building AI-powered applications, scalable web systems, and production-ready digital products.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Based_in-Faridabad%2C_India-0F172A?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Faridabad, India" />
-  <img src="https://img.shields.io/badge/Built-40%2B_Projects-2563EB?style=flat-square" alt="Built 40 plus projects" />
-  <img src="https://img.shields.io/badge/Focus-AI_Products_%7C_Full_Stack_%7C_Systems-111827?style=flat-square" alt="AI products, full stack, and systems" />
-</p>
-
-## Engineering Profile
-
-I build AI-powered products, modern full-stack applications, and scalable backend systems with a strong focus on product quality, maintainability, and real-world execution. I care about software that feels polished for users and stays clean under the hood as it grows.
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>What I Build</strong>
-      <ul>
-        <li>AI-driven product experiences</li>
-        <li>Full-stack applications with strong UX</li>
-        <li>Backend services and automation flows</li>
-        <li>Systems designed beyond the prototype stage</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <strong>How I Approach Engineering</strong>
-      <ul>
-        <li>Product-first thinking with practical delivery</li>
-        <li>Clean architecture and long-term maintainability</li>
-        <li>Performance, clarity, and usability as defaults</li>
-        <li>Continuous growth in advanced system design</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## Core Stack
-
-<p>
-  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-172554?style=for-the-badge&logo=nodedotjs&logoColor=7FC728" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-0F172A?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-0B1120?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/AI_Apps-111827?style=for-the-badge&logo=openai&logoColor=10A37F" alt="AI apps" />
-</p>
-
-## Current Focus
-
-- Building AI features that are genuinely useful, fast, and reliable.
-- Designing systems that can scale without losing clarity.
-- Improving backend architecture and delivery quality from idea to launch.
-
-## GitHub Snapshot
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suraj1812&theme=github_dark" alt="GitHub profile details" width="100%" />
+  Strong frontend architecture, clean backend execution, and product-focused engineering.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suraj1812&theme=github_dark" alt="GitHub stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suraj1812&theme=github_dark" alt="Repositories per language" width="49%" />
+  <img src="https://img.shields.io/badge/Faridabad-India-111827?style=flat-square" alt="Faridabad, India" />
+  <img src="https://img.shields.io/badge/Projects-40%2B-111827?style=flat-square" alt="40 plus projects" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Applications%20%7C%20Full%20Stack%20%7C%20Systems-111827?style=flat-square" alt="AI applications, full stack, and systems" />
 </p>
-
-## Explore My Work
-
-- Primary GitHub: [github.com/Suraj1812](https://github.com/Suraj1812)
-- Project archive: [github.com/Suraj44500](https://github.com/Suraj44500)
-- Portfolio: [portfolio-react-self-alpha.vercel.app](https://portfolio-react-self-alpha.vercel.app/)
 
 <p align="center">
-  Building useful software with strong foundations and ambitious execution.
+  <a href="https://portfolio-rose-rho-3t5lxjafz2.vercel.app/">Latest Portfolio</a> |
+  <a href="https://portfolio-react-self-alpha.vercel.app/">Previous Portfolio</a> |
+  <a href="https://github.com/Suraj1812">GitHub</a> |
+  <a href="https://github.com/Suraj44500">More Projects</a> |
+  <a href="https://www.linkedin.com/in/suraj-singh-0695ba371/">LinkedIn</a>
 </p>
+
+---
+
+## About
+
+I am a software engineer focused on AI product engineering, full-stack application development, and scalable backend systems. I build software that is useful, fast, maintainable, and ready for real users.
+
+Built 40+ projects across modern web engineering, automation, and product development.
+
+## Expertise
+
+- AI-powered applications and intelligent product workflows
+- Modern full-stack development with React, Next.js, Node.js, and NestJS
+- Backend systems, APIs, automation, and scalable architecture
+- Production-ready delivery with strong frontend architecture and clean implementation
+
+## Stack
+
+`TypeScript` `JavaScript` `React` `Next.js` `Node.js` `NestJS` `Python` `Docker`
+
+## Profiles and Work
+
+- Latest portfolio: [portfolio-rose-rho-3t5lxjafz2.vercel.app](https://portfolio-rose-rho-3t5lxjafz2.vercel.app/)
+- Previous portfolio: [portfolio-react-self-alpha.vercel.app](https://portfolio-react-self-alpha.vercel.app/)
+- Main GitHub: [github.com/Suraj1812](https://github.com/Suraj1812)
+- Additional repositories: [github.com/Suraj44500](https://github.com/Suraj44500)
+- LinkedIn: [linkedin.com/in/suraj-singh-0695ba371](https://www.linkedin.com/in/suraj-singh-0695ba371/)
