@@ -68,7 +68,7 @@ Built 40+ projects across product engineering, automation, and modern web develo
 - Full-stack systems that scale cleanly as complexity grows
 - Reliable backend architecture and modern frontend delivery
 
-## Core Stack
+## Core Stack and Capabilities
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -83,8 +83,17 @@ Built 40+ projects across product engineering, automation, and modern web develo
   <img src="https://img.shields.io/badge/Docker-0B1120?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/AI_Applications-0F172A?style=for-the-badge" alt="AI Applications" />
+  <img src="https://img.shields.io/badge/Product_Engineering-111827?style=for-the-badge" alt="Product Engineering" />
+  <img src="https://img.shields.io/badge/Automation-1F2937?style=for-the-badge" alt="Automation" />
+  <img src="https://img.shields.io/badge/System_Design-0F172A?style=for-the-badge" alt="System Design" />
+  <img src="https://img.shields.io/badge/Scalable_Systems-111827?style=for-the-badge" alt="Scalable Systems" />
+  <img src="https://img.shields.io/badge/Frontend_Architecture-1D4ED8?style=for-the-badge" alt="Frontend Architecture" />
+  <img src="https://img.shields.io/badge/Backend_Development-233056?style=for-the-badge" alt="Backend Development" />
+  <img src="https://img.shields.io/badge/Responsive_UI-0F172A?style=for-the-badge" alt="Responsive UI" />
+  <img src="https://img.shields.io/badge/Performance-111827?style=for-the-badge" alt="Performance" />
 </p>
 
 ## Links
